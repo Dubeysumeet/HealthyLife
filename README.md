@@ -21,5 +21,5 @@ Healthy Recipes
 ![image](images/readme/Recipespage.png)
 ![image](images/readme/foodrec.png)
 Chat Support
-![image](images/readme/chatsupport.png))
+![image](images/readme/chatsupport.png)
 
