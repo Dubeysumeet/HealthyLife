@@ -19,7 +19,7 @@ Workout
 ![image](images/readme/Homeworkout.png)
 Healthy Recipes
 ![image](images/readme/Recipespage.png)
-![image](images/readme/foodrec.png
+![image](images/readme/foodrec.png)
 Chat Support
 ![image](images/readme/chatsupport.png))
 
